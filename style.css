@@ -1,0 +1,12 @@
+.heading {
+  padding-top: 25px;
+  text-align: center;
+  background-color: lightcyan;
+  color: black;
+  height: 100px;
+}
+.container {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 20px;
+}
